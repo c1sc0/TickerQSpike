@@ -1,0 +1,14 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+theatreTicketingManager.sln.DotSettings.user
+theatreTicketingManager/compose-splunk.yaml
+theatreTicketingManager/hsmk.db
+theatreTicketingManager/hsmk.db-shm
+theatreTicketingManager/hsmk.db-wal
+.vs/*
+*.db
+*.user
